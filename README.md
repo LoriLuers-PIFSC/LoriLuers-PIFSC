@@ -27,7 +27,7 @@
 - Originally from Japan, moved to California, lived 1 year in Denmark, and spend several years traveling, volunteering, working, diving, and hiking
 - Volunteering, living and developing relationships in a remote coastal Muslim village
 - Learning and engaging with Pacific Islands communities in New Zealand (mostly Maori)
-- Listening & learning about Hawaiian culture and history through university events (kapa making), museums, volunteering (limu hui, pohaku loa), seminars, and books
+- Listening & learning about Hawaiian culture and history through university events (kapa making), museums, volunteering (limu hui, pohaku loa), seminars, books, studying olelo, native plants & animals
 
 ### International Experience
 - New Zealand (2016 - 2018) - working with Endangered Species of the Department of Conservation in Tongariro National Park, fundraising for Family for Every Child, agriculture & vinification
@@ -41,3 +41,12 @@
 - Komodo National Park (Flores, Indonesia), Bunaken & Lembeh (north Sulawesi, Indonesia), Bali & Nusa Penida (Indonesia)
 - Isle des Pines (New Caledonia), Great Barrier Reef  & Whitsundays islands (AU), Dauin & Apo Island (Visayas, Philippines)
 - free diving: Matlahuatyl SMR & Catalina island (CA), Coron (Philippines), Sharks Bay (AU), Wellington (NZ), O'ahu, Kaua'i, Hawai'i islands
+
+### Passions
+- Surfing
+- Art (ceramics, painting, sketching)
+- Hiking
+- Identifying native plants & animals
+- Growing plants & food
+- Repurposing / re-use of materials
+- Mindfulness & self-growth
