@@ -9,6 +9,8 @@
 - Projects include: National Coral Reef Monitoring Program (Hawaiian archipelago, Mariana archipelago, American Samoa and Pacific Remote Island Areas), Land-based sources of pollution, Kahekili Marine Reserve, Coral reef restoration impacts assessements, and more.
 - Oracle XE Database management
 - Oracle APEX application development
+- Python tool development
+- Google Cloud bucket/NODD tools
 - Interface with NCEI and scientist teams to archive data packages
 - Develop & apply Oracle APEX applications and cloud-based tools to process data and develop user interfaces (google colab, jupyter notebooks, python gooey)
 
