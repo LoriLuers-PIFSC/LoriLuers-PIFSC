@@ -1,10 +1,10 @@
 # Aloha! I'm Lori Luers
 
-## Data Management Specialist @ the Cooperative Institute for Marine and Atmospheric Reasearch (CIMAR)
+## Applications Developer @ the Cooperative Institute for Marine and Atmospheric Reasearch (CIMAR)
 
 ### What do I do?
 
-- Data manager for the Archipelagic Research Program (ARP) in the Ecosystem Sciences Division (ESD) of the Pacific Islands Fisheries Science Center (PIFSC) in Honolulu, Hawai'i
+- Applications Developer/Data manager for the Archipelagic Research Program (ARP) in the Ecosystem Sciences Division (ESD) of the Pacific Islands Fisheries Science Center (PIFSC) in Honolulu, Hawai'i
 - Assist in data collection, processing, management, and archival for annual missions to Pacific Islands regions as part of projects funded by the Coral Reef Conservation Program
 - Projects include: National Coral Reef Monitoring Program (Hawaiian archipelago, Mariana archipelago, American Samoa and Pacific Remote Island Areas), Land-based sources of pollution, Kahekili Marine Reserve, Coral reef restoration impacts assessements, and more.
 - Oracle XE Database management
