@@ -2,6 +2,13 @@
 
 ## Applications Developer @ the Cooperative Institute for Marine and Atmospheric Reasearch (CIMAR)
 
+## Tools
+- Structure-from-motion imagery validation with the database https://github.com/noaa-pifsc/sfm-optical-validation
+- DASh app (internal) for centralizing internal resources and providing access to final production database for science users
+- Optical app (internal) for collecting Structure-from-motion metadata and process tracking
+- Optical Validation scripts (pulling imagery file stats, bulk rename, zipping, validation with the database)
+- GitHub Pages for centralized Archipelagic Research Program website
+
 ### What do I do?
 
 - Applications Developer/Data manager for the Archipelagic Research Program (ARP) in the Ecosystem Sciences Division (ESD) of the Pacific Islands Fisheries Science Center (PIFSC) in Honolulu, Hawai'i
