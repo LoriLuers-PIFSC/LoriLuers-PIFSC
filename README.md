@@ -54,6 +54,7 @@
 ### Passions
 - Surfing
 - Art (ceramics, painting, sketching)
+- Free diving/snorkel/SCUBA
 - Hiking
 - Identifying native plants & animals  / endemic species and what makes a place unique
 - Growing plants & food
