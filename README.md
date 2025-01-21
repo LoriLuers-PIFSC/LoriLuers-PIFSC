@@ -1,6 +1,6 @@
 # Aloha! I'm Lori Luers
 
-## Applications Developer @ the Cooperative Institute for Marine and Atmospheric Reasearch (CIMAR)
+## Applications Developer @ the Cooperative Institute for Marine and Atmospheric Research (CIMAR)
 
 ## Tools
 - Structure-from-motion imagery validation with the database https://github.com/noaa-pifsc/sfm-optical-validation
