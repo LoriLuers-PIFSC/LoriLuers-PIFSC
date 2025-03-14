@@ -59,4 +59,4 @@
 - Identifying native plants & animals  / endemic species and what makes a place unique
 - Growing plants & food
 - Repurposing / re-use of materials
-- Cognitive science / psychology / communication
+- Cognitive science / psychology / mindful communication
