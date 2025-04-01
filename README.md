@@ -1,4 +1,4 @@
-# Aloha, I'm Lori Luers
+# Aloha kākou! ‘O Lori Luers ko’u inoa.
 
 ## Applications Developer @ the Cooperative Institute for Marine and Atmospheric Research (CIMAR)
 
