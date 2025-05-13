@@ -7,7 +7,7 @@
 - DASh app (internal) for centralizing internal resources and providing access to final production database for science users
 - Optical app (internal) for collecting Structure-from-motion metadata and process tracking https://github.com/LoriLuers-PIFSC/optical-app
 - Optical Validation scripts (pulling imagery file stats, bulk rename, zipping, validation with the database)
-- GitHub Pages for centralized Archipelagic Research Program website
+- GitHub Pages for centralized Archipelagic Research Program website https://github.com/noaa-pifsc/esd-arp-resources
 
 ### What do I do?
 
