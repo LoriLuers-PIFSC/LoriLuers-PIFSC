@@ -38,8 +38,8 @@
 ### Culture & Diversity
 - Experience living in Japan, California, Denmark, Australia, New Zealand, and Indonesia and spent ~3 yrs traveling, volunteering, diving, and hiking
 - Indonesia (West Java) - CLEAR Batukaras - working with local communities to establish waste management systems & assist with education and other resources
-- Learning and engaging with Pacific Islands communities in New Zealand (mostly Maori)
-- Listening & learning about Hawaiian culture and history through university events (kapa making), museums, volunteering (limu hui, pohaku loa), seminars, books, studying olelo, native plants & animals
+- Learning and engaging with Pacific Islands communities in New Zealand (mostly Māori)
+- Listening & learning about Hawaiian culture and history through university events (kapa making), museums, volunteering (limu hui, pōhaku loa), seminars, books, studying ʻōlelo, native plants & animals
 - New Zealand - volunteering with Endangered Species of the Department of Conservation in Tongariro National Park, fundraising for Family for Every Child
 - Taiwan, New Caledonia, Philippines, Thailand, Cambodia, Vietnam, Mexico, Spain, Germany, Poland, France, Italy, Czech Republic, Hungary, Latvia, Sweden
 
