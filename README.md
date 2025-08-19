@@ -29,6 +29,7 @@
 - B.S. in Biochemistry/Cell Biology with a minor in Neuroscience
 
 ### Professional Experience
+- 2025 Pacific National Coral Reef Monitoring Program Communications Lead
 - Openscapes Champions Cohort 2024 (open science)
 - Instructor for UC San Diego Extension's K-12 Programs
 - Developed and facilitated Marine Biology & Marine Invertebrates curricula from 2015 -2021
