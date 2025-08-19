@@ -29,19 +29,15 @@
 - B.S. in Biochemistry/Cell Biology with a minor in Neuroscience
 
 ### Professional Experience
-
 - Openscapes Champions Cohort 2024 (open science)
 - Instructor for UC San Diego Extension's K-12 Programs
 - Developed and facilitated Marine Biology & Marine Invertebrates curricula from 2015 -2021
 - Brewer & sustainability advocate for Juneshine Brewing (2018 - 2020)
 
 ### Culture & Diversity
-- Experience living in Japan, California, Denmark, Australia, New Zealand, and Indonesia and spent ~3 yrs traveling, volunteering, diving, and hiking
 - Indonesia (West Java) - CLEAR Batukaras - working with local communities to establish waste management systems & assist with education and other resources
-- Learning and engaging with Pacific Islands communities in New Zealand (mostly Māori)
-- Listening & learning about Hawaiian culture and history through university events (kapa making), museums, volunteering (limu hui, pōhaku loa), seminars, books, studying ʻōlelo, native plants & animals
+- Listening & studying  Hawaiian culture and history through university events (kapa making), 'Building Pilina' CIMAR workshop, volunteering (Limu Hui, Pōhaku Loa, Loko'ia, Lo'i), seminars, books, ʻōlelo, native plants & animals
 - New Zealand - volunteering with Endangered Species of the Department of Conservation in Tongariro National Park, fundraising for Family for Every Child
-- Taiwan, New Caledonia, Philippines, Thailand, Cambodia, Vietnam, Mexico, Spain, Germany, Poland, France, Italy, Czech Republic, Hungary, Latvia, Sweden
 
 ### Diving/Ocean Experience
 - Scientific diving around the Main Hawaiian Islands
@@ -60,3 +56,4 @@
 - Growing plants & food
 - Repurposing / re-use of materials
 - Cognitive science / psychology / mindful communication
+- Languages
