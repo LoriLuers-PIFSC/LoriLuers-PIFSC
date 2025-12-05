@@ -7,16 +7,20 @@
 - DASh app (internal) for centralizing internal resources and providing access to final production database for science users
 - Optical app (internal) for collecting Structure-from-motion metadata and process tracking https://github.com/LoriLuers-PIFSC/optical-app
 - Optical Validation scripts (pulling imagery file stats, bulk rename, zipping, validation with the database)
+- Fast API app for processing photogrammetry imagery to archive to NCEI, currently internal ([esd-nodd-tool](https://github.com/noaa-pifsc/esd-nodd-tool))
 - GitHub Pages for centralized Archipelagic Research Program website https://github.com/noaa-pifsc/esd-arp-resources
 
 ### What do I do?
 
 - Applications Developer/Data manager for the Archipelagic Research Program (ARP) in the Ecosystem Sciences Division (ESD) of the Pacific Islands Fisheries Science Center (PIFSC) in Honolulu, Hawai'i
-- Assist in data collection, processing, management, and archival for annual missions to Pacific Islands regions as part of projects funded by the Coral Reef Conservation Program
-- Projects include: National Coral Reef Monitoring Program (Hawaiian archipelago, Mariana archipelago, American Samoa and Pacific Remote Island Areas), Land-based sources of pollution, Kahekili Marine Reserve, Coral reef restoration impacts assessements, and more.
+- Assist in data collection, processing, management, and archival for research missions to Pacific Islands regions as part of projects funded by the Coral Reef Conservation Program
+- Projects include: National Coral Reef Monitoring Program (Hawaiian archipelago, Mariana archipelago, American Samoa and Pacific Remote Island Areas), Land-based sources of pollution, Kahekili Herbivore Fisheries Management Area, Coral reef restoration impacts assessements, and more.
 - Oracle XE Database management
 - Oracle APEX application development & maintenance
 - Python tool development
+- Fast API
+- Synology NAS
+- Docker
 - Google Cloud bucket/NODD tools
 - Interface with NCEI and scientist teams to archive data packages
 - Develop & apply Oracle APEX applications and cloud-based tools to process data and develop user interfaces (google colab, jupyter notebooks, python gooey) to streamline the data life cycle
@@ -29,8 +33,10 @@
 - B.S. in Biochemistry/Cell Biology with a minor in Neuroscience
 
 ### Professional Experience
+- 2025 Hawai'i AI & Cloud Innovation Summit
 - 2025 Pacific National Coral Reef Monitoring Program Communications Lead
-- Openscapes Champions Cohort 2024 (open science)
+- Presented at 2025 NOAA's Enterprise Data Management Workshop (EDMW)
+- 2024 Openscapes Champions Cohort (open science)
 - Instructor for UC San Diego Extension's K-12 Programs
 - Developed and facilitated Marine Biology & Marine Invertebrates curricula from 2015 -2021
 - Brewer & sustainability advocate for Juneshine Brewing (2018 - 2020)
@@ -53,7 +59,7 @@
 - Art (ceramics, painting, sketching)
 - Free diving/snorkel/SCUBA
 - Hiking
-- Identifying native plants & animals  / endemic species and what makes a place unique
+- Finding endemic species and what makes a place unique
 - Growing plants & food
 - Repurposing / re-use of materials
 - Cognitive science / psychology / mindful communication
