@@ -43,7 +43,7 @@
 
 ### Culture & Diversity
 - Indonesia (West Java) - CLEAR Batukaras - working with local communities to establish waste management systems & assist with education and other resources
-- Listening & studying  Hawaiian culture and history through university events (kapa making), 'Building Pilina' CIMAR workshop, volunteering (Limu Hui, Pōhaku Loa, Loko'ia, Lo'i), seminars, books, ʻōlelo, native plants & animals
+- 'Building Pilina' CIMAR workshop, volunteering (Limu Hui, Pōhaku Loa, Loko'ia, Lo'i), seminars, books, ʻōlelo, native plants & animals
 - New Zealand - volunteering with Endangered Species of the Department of Conservation in Tongariro National Park, fundraising for Family for Every Child
 
 ### Diving/Ocean Experience
@@ -55,10 +55,11 @@
 - Free diving: Matlahuatyl SMR & Catalina island (CA), Coron (Philippines), Sharks Bay (AU), Wellington (NZ), O'ahu, Kaua'i, Hawai'i islands
 
 ### Passions
-- Surfing
+- Surfing, hiking, sports, games & movement
 - Art (ceramics, painting, sketching)
 - Free diving/snorkel/SCUBA
-- Hiking
+- Tidepoling
+- Scrappy cooking
 - Learning about endemic species and what makes a place unique
 - Growing plants & food
 - Repurposing / re-use of materials
