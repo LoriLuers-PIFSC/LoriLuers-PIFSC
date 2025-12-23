@@ -9,11 +9,12 @@
 - Optical Validation scripts (pulling imagery file stats, bulk rename, zipping, validation with the database)
 - Fast API app for processing photogrammetry imagery to archive to NCEI, currently internal ([esd-nodd-tool](https://github.com/noaa-pifsc/esd-nodd-tool))
 - GitHub Pages for centralized Archipelagic Research Program website https://github.com/noaa-pifsc/esd-arp-resources
+- Automation of Agisoft Metashape processing of photogrammetry imagery (SfM models)
 
 ### What do I do?
 
 - Applications Developer/Data manager for the Archipelagic Research Program (ARP) in the Ecosystem Sciences Division (ESD) of the Pacific Islands Fisheries Science Center (PIFSC) in Honolulu, Hawai'i
-- Assist in data collection, processing, management, and archival for research missions to Pacific Islands regions as part of projects funded by the Coral Reef Conservation Program
+- Assist in data collection, processing, management, and archival for research missions to Pacific Islands regions as part of projects funded by the Coral Reef Conservation Program (cruise data manager in the field on research vessels 1-3 months per year)
 - Projects include: National Coral Reef Monitoring Program (Hawaiian archipelago, Mariana archipelago, American Samoa and Pacific Remote Island Areas), Land-based sources of pollution, Kahekili Herbivore Fisheries Management Area, Coral reef restoration impacts assessements, and more.
 - Oracle XE Database management
 - Oracle APEX application development & maintenance
@@ -58,7 +59,7 @@
 - Art (ceramics, painting, sketching)
 - Free diving/snorkel/SCUBA
 - Hiking
-- Finding endemic species and what makes a place unique
+- Learning about endemic species and what makes a place unique
 - Growing plants & food
 - Repurposing / re-use of materials
 - Cognitive science / psychology / mindful communication
