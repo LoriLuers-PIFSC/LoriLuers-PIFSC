@@ -24,8 +24,7 @@
 - Google Cloud bucket/NODD tools
 - Interface with NCEI and scientist teams to archive data packages
 - Develop & apply Oracle APEX applications and cloud-based tools to process data and develop user interfaces (google colab, jupyter notebooks, python gooey) to streamline the data life cycle
-- Underwater dive survey: Fish Stationary-Point-Count (SPC) data collection
-- Underwater dive survey survey: Structure-from-Motion (SfM) imagery collection
+- Underwater dive survey: Fish Stationary-Point-Count (SPC) data collection & Structure-from-Motion (SfM) imagery collection
 
 ### Education
 
