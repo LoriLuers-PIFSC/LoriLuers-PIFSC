@@ -9,15 +9,15 @@
 - Optical Validation scripts (pulling imagery file stats, bulk rename, zipping, validation with the database)
 - Fast API app for processing photogrammetry imagery to archive to NCEI, currently internal ([esd-nodd-tool](https://github.com/noaa-pifsc/esd-nodd-tool))
 - GitHub Pages for centralized Archipelagic Research Program website https://github.com/noaa-pifsc/esd-arp-resources
-- Automation of Agisoft Metashape processing of photogrammetry imagery (SfM models)
+- Automation of Agisoft Metashape processing of photogrammetry imagery (SfM models): https://github.com/noaa-pifsc/reefmapper
 
 ### What do I do?
 
-- Applications Developer/Data manager for the Archipelagic Research Program (ARP) in the Ecosystem Sciences Division (ESD) of the Pacific Islands Fisheries Science Center (PIFSC) in Honolulu, Hawai'i
-- Assist in data collection, processing, management, and archival for research missions to Pacific Islands regions as part of projects funded by the Coral Reef Conservation Program (cruise data manager in the field on research vessels 1-3 months per year)
+- Applications Developer/Data manager for the Archipelagic Research Program (ARP) in the Ecosystem Sciences Division (ESD) of the Pacific Islands Fisheries Science Center (PIFSC) in Honolulu, Hawai'i-
+- Development and maintenance of  systems for data collection, processing, management, and archival for research missions to Pacific Islands regions as part of projects funded by the Coral Reef Conservation Program (cruise data manager in the field on research vessels 1-3 months per year)
+- Data Lead for Pacific National Coral Reef Monitoring Program
 - Projects include: National Coral Reef Monitoring Program (Hawaiian archipelago, Mariana archipelago, American Samoa and Pacific Remote Island Areas), Land-based sources of pollution, Kahekili Herbivore Fisheries Management Area, Coral reef restoration impacts assessements, and more.
-- Oracle XE Database management
-- Oracle APEX application development & maintenance
+- Oracle XE Database management, Oracle APEX application development & maintenance
 - Python tool development
 - Fast API
 - Synology NAS
@@ -25,7 +25,7 @@
 - Google Cloud bucket/NODD tools
 - Interface with NCEI and scientist teams to archive data packages
 - Develop & apply Oracle APEX applications and cloud-based tools to process data and develop user interfaces (google colab, jupyter notebooks, python gooey) to streamline the data life cycle
-- Underwater dive survey: Fish Stationary-Point-Count (SPC) data collection & Structure-from-Motion (SfM) imagery collection
+- NOAA Diver: Fish Stationary-Point-Count (SPC) data collection & Structure-from-Motion (SfM) imagery collection
 
 ### Education
 
@@ -33,6 +33,7 @@
 - B.S. in Biochemistry/Cell Biology with a minor in Neuroscience
 
 ### Professional Experience
+- 2026 UH Facilitation Workshop with Donna Ching
 - 2025 Hawai'i AI & Cloud Innovation Summit
 - 2025 Pacific National Coral Reef Monitoring Program Communications Lead
 - Presented at 2025 NOAA's Enterprise Data Management Workshop (EDMW)
@@ -40,6 +41,7 @@
 - Instructor for UC San Diego Extension's K-12 Programs
 - Developed and facilitated Marine Biology & Marine Invertebrates curricula from 2015 -2021
 - Brewer & sustainability advocate for Juneshine Brewing (2018 - 2020)
+- Operations Coordinator and Camp Counselor for UCSD Camp Kesem (2013 - 2015)
 
 ### Culture & Diversity
 - Indonesia (West Java) - CLEAR Batukaras - working with local communities to establish waste management systems & assist with education and other resources
