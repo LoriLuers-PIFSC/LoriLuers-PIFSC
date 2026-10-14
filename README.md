@@ -8,7 +8,7 @@
 - Optical app (internal) for collecting Structure-from-motion metadata and process tracking https://github.com/LoriLuers-PIFSC/optical-app
 - Optical Validation scripts (pulling imagery file stats, bulk rename, zipping, validation with the database)
 - Fast API app for processing photogrammetry imagery to archive to NCEI, currently internal ([esd-nodd-tool](https://github.com/noaa-pifsc/esd-nodd-tool))
-- GitHub Pages for centralized Archipelagic Research Program website https://github.com/noaa-pifsc/esd-arp-resources
+- GitHub Pages for centralized Archipelagic Research Program website 
 - Automation of Agisoft Metashape processing of photogrammetry imagery (SfM models): https://github.com/noaa-pifsc/reefmapper
 
 ### What do I do?
@@ -18,14 +18,16 @@
 - Data Lead for Pacific National Coral Reef Monitoring Program
 - Projects include: National Coral Reef Monitoring Program (Hawaiian archipelago, Mariana archipelago, American Samoa and Pacific Remote Island Areas), Land-based sources of pollution, Kahekili Herbivore Fisheries Management Area, Coral reef restoration impacts assessements, and more.
 - Oracle XE Database management, Oracle APEX application development & maintenance
-- Python tool development
-- Fast API
-- Synology NAS
-- Docker
-- Google Cloud bucket/NODD tools
+- Automation & Python tool development (incl Fast API, database-driven processing)
+- Website maintenance and development https://github.com/noaa-pifsc/esd-arp-resources
+- Capacity building, training, and mentorship of colleagues to optimize code, make data reproducible and accessible
+- Deploy & maintain LINUS systems (Synology NAS)
+- Docker container development and deployment
+- Google Cloud bucket/workstations/NODD tools
 - Interface with NCEI and scientist teams to archive data packages
 - Develop & apply Oracle APEX applications and cloud-based tools to process data and develop user interfaces (google colab, jupyter notebooks, python gooey) to streamline the data life cycle
 - NOAA Diver: Fish Stationary-Point-Count (SPC) data collection & Structure-from-Motion (SfM) imagery collection
+- LinkedIn: https://www.linkedin.com/in/lori-hiroko-luers-3a005b44/
 
 ### Education
 
