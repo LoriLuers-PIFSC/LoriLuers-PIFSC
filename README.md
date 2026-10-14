@@ -38,7 +38,7 @@
 - 2026 UH Facilitation Workshop with Donna Ching
 - 2025 Hawai'i AI & Cloud Innovation Summit
 - 2025 Pacific National Coral Reef Monitoring Program Communications Lead
-- Presented at 2025 NOAA's Enterprise Data Management Workshop (EDMW)
+- 2025 NOAA's Enterprise Data Management Workshop (EDMW) speaker: "Pathways to Open Science: Using Docker, Python, APEX and more to streamline the data life cycle and improve data access" 
 - 2024 Openscapes Champions Cohort (open science)
 - Instructor for UC San Diego Extension's K-12 Programs
 - Developed and facilitated Marine Biology & Marine Invertebrates curricula from 2015 -2021
