@@ -11,30 +11,27 @@
 - GitHub Pages for centralized Archipelagic Research Program website 
 - Automation of Agisoft Metashape processing of photogrammetry imagery (SfM models): https://github.com/noaa-pifsc/reefmapper
 
-### What do I do?
+## What do I do?
 
 - Applications Developer/Data manager for the Archipelagic Research Program (ARP) in the Ecosystem Sciences Division (ESD) of the Pacific Islands Fisheries Science Center (PIFSC) in Honolulu, Hawai'i-
 - Development and maintenance of  systems for data collection, processing, management, and archival for research missions to Pacific Islands regions as part of projects funded by the Coral Reef Conservation Program (cruise data manager in the field on research vessels 1-3 months per year)
 - Data Lead for Pacific National Coral Reef Monitoring Program
 - Projects include: National Coral Reef Monitoring Program (Hawaiian archipelago, Mariana archipelago, American Samoa and Pacific Remote Island Areas), Land-based sources of pollution, Kahekili Herbivore Fisheries Management Area, Coral reef restoration impacts assessements, and more.
+- Interface with NCEI and scientist teams to archive data packages
+- NOAA Diver: Fish Stationary-Point-Count (SPC) data collection & Structure-from-Motion (SfM) imagery collection
+- LinkedIn: https://www.linkedin.com/in/lori-hiroko-luers-3a005b44/
+
+## Technical Skills
 - Oracle XE Database management, Oracle APEX application development & maintenance
 - Automation & Python tool development (incl Fast API, database-driven processing)
 - Website maintenance and development https://github.com/noaa-pifsc/esd-arp-resources
 - Capacity building, training, and mentorship of colleagues to optimize code, make data reproducible and accessible
-- Deploy & maintain LINUS systems (Synology NAS)
+- Deploy & maintain LINUX systems (Synology NAS)
 - Docker container development and deployment
 - Google Cloud bucket/workstations/NODD tools
-- Interface with NCEI and scientist teams to archive data packages
 - Develop & apply Oracle APEX applications and cloud-based tools to process data and develop user interfaces (google colab, jupyter notebooks, python gooey) to streamline the data life cycle
-- NOAA Diver: Fish Stationary-Point-Count (SPC) data collection & Structure-from-Motion (SfM) imagery collection
-- LinkedIn: https://www.linkedin.com/in/lori-hiroko-luers-3a005b44/
 
-### Education
-
-- M.S. in Biology at Scripps Institution of Oceanography of UC San Diego
-- B.S. in Biochemistry/Cell Biology with a minor in Neuroscience
-
-### Professional Experience
+## Professional Experience
 - 2026 UH Facilitation Workshop with Donna Ching
 - 2025 Hawai'i AI & Cloud Innovation Summit
 - 2025 Pacific National Coral Reef Monitoring Program Communications Lead
@@ -45,27 +42,15 @@
 - Brewer & sustainability advocate for Juneshine Brewing (2018 - 2020)
 - Operations Coordinator and Camp Counselor for UCSD Camp Kesem (2013 - 2015)
 
-### Culture & Diversity
+## Culture & Diversity
 - Indonesia (West Java) - CLEAR Batukaras - working with local communities to establish waste management systems & assist with education and other resources
 - 'Building Pilina' CIMAR workshop, volunteering (Limu Hui, Pōhaku Loa, Loko'ia, Lo'i), seminars, books, ʻōlelo, native plants & animals
 - New Zealand - volunteering with Endangered Species of the Department of Conservation in Tongariro National Park, fundraising for Family for Every Child
 
-### Diving/Ocean Experience
+## Diving/Ocean Experience
 - Scientific diving around the Main Hawaiian Islands
 - Recreational diving around O'ahu
 - San Diego, California (kelp dives, shore & boat dives, La Jolla canyon)
 - Komodo National Park (Flores, Indonesia), Bunaken & Lembeh (north Sulawesi, Indonesia), Bali & Nusa Penida (Indonesia)
 - Isle des Pines (New Caledonia), Great Barrier Reef  & Whitsundays islands (AU), Dauin & Apo Island (Visayas, Philippines)
 - Free diving: Matlahuatyl SMR & Catalina island (CA), Coron (Philippines), Sharks Bay (AU), Wellington (NZ), O'ahu, Kaua'i, Hawai'i islands
-
-### Passions
-- Surfing, hiking, sports, games & movement
-- Art (ceramics, painting, sketching)
-- Free diving/snorkel/SCUBA
-- Tidepoling
-- Scrappy cooking
-- Learning about endemic species and what makes a place unique
-- Growing plants & food
-- Repurposing / re-use of materials
-- Cognitive science / psychology / mindful communication
-- Languages
