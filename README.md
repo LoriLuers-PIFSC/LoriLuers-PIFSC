@@ -4,12 +4,12 @@
 
 ## Tools
 - Structure-from-motion imagery validation with the database https://github.com/noaa-pifsc/sfm-optical-validation
-- DASh app (internal) for centralizing internal resources and providing access to final production database for science users
-- Optical app (internal) for collecting Structure-from-motion metadata and process tracking https://github.com/LoriLuers-PIFSC/optical-app
-- Optical Validation scripts (pulling imagery file stats, bulk rename, zipping, validation with the database)
+- APEX DASh app (internal) for centralizing internal resources and providing access to final production database for science users
+- APEX Optical app (internal) for collecting Structure-from-motion metadata and process tracking https://github.com/LoriLuers-PIFSC/optical-app
 - Fast API app for processing photogrammetry imagery to archive to NCEI, currently internal ([esd-nodd-tool](https://github.com/noaa-pifsc/esd-nodd-tool))
-- GitHub Pages for centralized Archipelagic Research Program website 
+- Developed & maintain GitHub Pages for centralized Archipelagic Research Program website: https://noaa-pifsc.github.io/esd-arp-resources/
 - Automation of Agisoft Metashape processing of photogrammetry imagery (SfM models): https://github.com/noaa-pifsc/reefmapper
+- Assisting scientists' development of Shiny App: https://connect.fisheries.noaa.gov/esd-occ-sitemap/ 
 
 ## What do I do?
 
