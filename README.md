@@ -31,11 +31,13 @@
 - Google Cloud bucket/workstations/NODD tools
 - Develop & apply Oracle APEX applications and cloud-based tools to process data and develop user interfaces (google colab, jupyter notebooks, python gooey) to streamline the data life cycle
 
-## Professional Experience
+## Professional Development
 - 2026 UH Facilitation Workshop with Donna Ching
+- 2026 facilitating PIFSC-wide Data Services Open House
 - 2025 Hawai'i AI & Cloud Innovation Summit
 - 2025 Pacific National Coral Reef Monitoring Program Communications Lead
-- 2025 NOAA's Enterprise Data Management Workshop (EDMW) speaker: "Pathways to Open Science: Using Docker, Python, APEX and more to streamline the data life cycle and improve data access" 
+- 2025 NOAA's Enterprise Data Management Workshop (EDMW) speaker: "Pathways to Open Science: Using Docker, Python, APEX and more to streamline the data life cycle and improve data access"
+- 2024 coordinating Pacific Islands Region Open Science Showcase 
 - 2024 Openscapes Champions Cohort (open science)
 - Instructor for UC San Diego Extension's K-12 Programs
 - Developed and facilitated Marine Biology & Marine Invertebrates curricula from 2015 -2021
